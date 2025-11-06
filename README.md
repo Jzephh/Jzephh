@@ -124,8 +124,8 @@ interests:
 
 
 📊 GitHub Stats (Gradient Mode)
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jzephh&show_icons=true&theme=react&hide_border=true&border_radius=10" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jzephh&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </p>
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hikaru-saito-dev&show_icons=true&theme=react&hide_border=true&border_radius=10" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hikaru-saito-dev&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </p>
 🏆 Trophy Wall
-<a href="https://github.com/Jzephh?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Jzephh&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
+<a href="https://github.com/hikaru-saito-dev?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=hikaru-saito-dev&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
 
 <p align="center"><i>"Don’t just code it. Craft it."</i></p> <p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FF61D6,8E2DE2&height=100&section=footer"/> </p>
