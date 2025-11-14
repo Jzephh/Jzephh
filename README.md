@@ -128,9 +128,9 @@ interests:
 🏆 Trophy Wall
 <a href="https://github.com/hikaru-saito-dev?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=hikaru-saito-dev&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hikaru-saito-dev/hikaru-saito-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hikaru-saito-dev/hikaru-saito-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hikaru-saito-dev/hikaru-saito-dev/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
 </picture>
 
 <p align="center"><i>"Don’t just code it. Craft it."</i></p> <p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FF61D6,8E2DE2&height=100&section=footer"/> </p>
