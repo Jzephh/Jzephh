@@ -17,7 +17,7 @@ role: Full Stack Developer
 interests:
   Full Stack Development
   - Frontend: React.js, Next.js, TypeScript, TailwindCSS
-  - Backend: Node.js, Express.js, Nest.js, GraphQL
+  - Backend: Node.js, Express.js, Nest.js, GraphQL, Python
   - Databases: PostgreSQL, MongoDB, Firebase
   - DevOps: Docker, AWS, Vercel
   - Version Control: Git, GitHub, CI/CD
@@ -63,7 +63,9 @@ interests:
       <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" alt="Solana"><br>Solana
     </td>
     <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/raw/master/icons/icon_nft.png" height="45" alt="NFT"><br>NFT
+      <a href="https://techstack-generator.vercel.app/python-icon.svg" target="_blank">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="MySQL" width="55" height="55">
+      </a><br>Python
     </td>
     <td align="center" width="90">
       <a href="https://techstack-generator.vercel.app/ts-icon.svg" target="_blank">
